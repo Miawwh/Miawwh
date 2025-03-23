@@ -1,10 +1,15 @@
 <h2 align="left">Hi 👋! My name is Miawh and I'm a beginner aspiring to become a fullstack developer, from Indonesia</h2>
 
+<!-- Menambahkan Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Miawwh&color=blue" alt="Profile Views" />
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Miawwh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miawwh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
+  
+  <!-- Mengubah top-langs menjadi hidden progress bars -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miawwh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&hide_progress=true" height="150" alt="languages graph"  />
 </div>
 
 ###
