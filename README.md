@@ -1,66 +1,77 @@
-<!-- Taruh banner di paling atas -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+<!--                           GITHUB BANNER IMAGE                            -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+
 <img src="Banner-Github-Miawhh.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+<!--                                GREETING                                  -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
 
-###
+<h1 align="left">Hey 👋 What’s up?</h1>
 
-<!-- Bagian Pembuka -->
-<p align="left">My name is <strong>[Nama Kamu]</strong> and I'm a <strong>Frontend Developer</strong> with <strong>Fullstack Ambitions</strong>, from <strong>[Kota Asal]</strong> 🌏</p>
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+<!--                            INTRODUCTION                                   -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<!-- Isi dengan 4 poin personal -->
 <p align="left">
-✨ Creating bugs since <strong>[Tahun mulai coding, e.g., 2021]</strong> but fixing them with passion!<br>
-📚 I'm currently learning <strong>Node.js & Express</strong> to conquer the backend world 🚀<br>
-🎯 Goals: <strong>Build 3 fullstack projects</strong> in 2023 | <strong>Contribute to open-source</strong><br>
-🎲 Fun fact: <strong>I once debugged CSS for 3 hours only to find a missing semicolon! 😅</strong>
+  My name is <strong>Miawhh</strong>, I’m a <strong>Frontend Developer</strong>  
+  from <strong>Indonesia</strong> with <strong>Fullstack Ambitions</strong>. 🌏
 </p>
 
-###
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+<!--                               ABOUT ME                                   -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
 
-<h2 align="left">I code with</h2>
+<h2 align="left">About Me</h2>
+<p align="left">
+  ✨ Coding since <strong>2023</strong> with a love for building open‑source tools!<br>
+  📚 Currently mastering <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Bootstrap</strong>.<br>
+  🎯 Goal: Launch <strong>3 fullstack projects</strong> by year’s end and contribute to open‑source.<br>
+  🤝 I enjoy creating code that helps others—let’s learn together!
+</p>
+
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+<!--                             TECH STACK                                   -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+
+<h2 align="left">I Code With</h2>
 <div align="left">
-  <h4>Frontend Foundation</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="45"/>
 
-###
+  <h3>💻 Languages</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
-<!-- Sesuaikan dengan skillmu -->
-<div align="left">
-  <!-- Tech Stack Utama -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" width="40" />
+  <br><br>
 
-  
-  <!-- Sedang Dipelajari -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <h3>⚙️ Frameworks & Libraries</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
+
+  <br><br>
+
+  <h3>🛠️ Tools & Editors</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+
 </div>
 
-###
+<!-- ───────────────────────────────────────────────────────────────────────── -->
+<!--                            LET'S CONNECT                                 -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
 
-<h2 align="left">Media Social</h2>
-
-###
-
-<!-- Pilih yang relevan -->
+<h2 align="left">🤝 Let’s Connect</h2>
 <div align="left">
-  <a href="[Link LinkedIn]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="[Your LinkedIn URL]" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="[Link GitHub Profile]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+  <a href="https://github.com/Miawhh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" alt="GitHub" />
   </a>
-  <a href="mailto:[Email Kamu]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email" />
   </a>
 </div>
