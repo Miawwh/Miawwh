@@ -25,6 +25,9 @@
 ###
 
 <h2 align="left">I code with</h2>
+<div align="left">
+  <h4>Frontend Foundation</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="45"/>
 
 ###
 
