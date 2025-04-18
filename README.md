@@ -1,59 +1,61 @@
-<h2 align="left">Hi 👋! My name is Miawh and I'm a beginner aspiring to become a fullstack developer, from Indonesia</h2>
+<!-- Taruh banner di paling atas -->
+<img src="Banner-Github-Miawhh.png" alt="GitHub Banner" width="100%" />
 
-<!-- Menambahkan Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Miawwh&color=blue" alt="Profile Views" />
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miawwh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<!-- Bagian Pembuka -->
+<p align="left">My name is <strong>[Nama Kamu]</strong> and I'm a <strong>Frontend Developer</strong> with <strong>Fullstack Ambitions</strong>, from <strong>[Kota Asal]</strong> 🌏</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<!-- Isi dengan 4 poin personal -->
+<p align="left">
+✨ Creating bugs since <strong>[Tahun mulai coding, e.g., 2021]</strong> but fixing them with passion!<br>
+📚 I'm currently learning <strong>Node.js & Express</strong> to conquer the backend world 🚀<br>
+🎯 Goals: <strong>Build 3 fullstack projects</strong> in 2023 | <strong>Contribute to open-source</strong><br>
+🎲 Fun fact: <strong>I once debugged CSS for 3 hours only to find a missing semicolon! 😅</strong>
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<!-- Sesuaikan dengan skillmu -->
+<div align="left">
+  <!-- Tech Stack Utama -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   
-  <!-- Mengubah top-langs menjadi hidden progress bars -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miawwh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&hide_progress=true" height="150" alt="languages graph"  />
+  <!-- Sedang Dipelajari -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">Media Social</h2>
 
 ###
 
+<!-- Pilih yang relevan -->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
+  <a href="[Link LinkedIn]" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="[Link GitHub Profile]" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+  </a>
+  <a href="mailto:[Email Kamu]" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/3ciY3bzcakIAAAAC/hanako-kun-hanako.gif"  />
-
-###
-
-<h3 align="left">🔗 Connect with Me</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miawwh/Miawwh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miawwh/Miawwh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miawwh/Miawwh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
