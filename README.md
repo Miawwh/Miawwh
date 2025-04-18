@@ -30,10 +30,10 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  ✨ Coding since <strong>2023</strong> but fixing bugs with passion!<br>
-  📚 Currently mastering <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Bootstrap</strong>.<br>
-  🎯 Goal: Build <strong>3 fullstack projects</strong> by year’s end and contribute to open‑source.<br>
-  🤝 I love creating web tools that help others—let’s learn together!
+  🌱 <strong>Fresh Frontend Developer</strong> | Building my foundation brick by brick<br>
+  🚀 <strong>Aspiring Fullstack Developer</strong> with sights set on Node.js & beyond<br>
+  💡 Passionate about <strong>crafting solutions</strong> that simplify lives<br>
+  🤝 Let’s build something <strong>meaningful</strong> together!
 </p>
 
 ### 
