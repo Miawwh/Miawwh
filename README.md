@@ -44,7 +44,7 @@
 
 <h2 align="left">Languages & Tools⚙️💻</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
@@ -57,23 +57,22 @@
 
 ### 
 
-<!-- ────────────────────────────────────────────────────────────────────────── -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
 <!--                            🤝 LET'S CONNECT !                            -->
-<!-- ────────────────────────────────────────────────────────────────────────── -->
+<!-- ───────────────────────────────────────────────────────────────────────── -->
 
 <h2 align="left">🤝 Let's Connect !</h2>
 
 ###
 
-<div align="left" style="display: flex; gap: 12px; margin-top: 16px">
-  <a href="https://youtube.com/your-channel" target="_blank" style="text-decoration: none">
-    <img src="https://icons-for-profile-readme.s3.eu-central-1.amazonaws.com/youtube.svg" width="40" height="40" alt="YouTube" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/jeremiah-andrew-lengkong-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank" style="text-decoration: none">
-    <img src="https://icons-for-profile-readme.s3.eu-central-1.amazonaws.com/linkedin.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://tiktok.com/@your-username" target="_blank" style="text-decoration: none">
-    <img src="https://icons-for-profile-readme.s3.eu-central-1.amazonaws.com/tiktok.svg" width="40" height="40" alt="TikTok" />
-  </a>
+ <a href="https://www.tiktok.com/@username" target="_blank"> <img src="https://www.svgrepo.com/show/303159/tiktok-icon-black-1-logo.svg" width="52" height="40" alt="TikTok Logo"  /> </a>
 </div>
+
 ###
