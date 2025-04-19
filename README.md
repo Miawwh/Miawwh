@@ -65,18 +65,15 @@
 
 ###
 
-<div align="left">
-  <a href="https://github.com/Miawwh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<div align="left" style="display: flex; gap: 12px; margin-top: 16px">
+  <a href="https://youtube.com/your-channel" target="_blank" style="text-decoration: none">
+    <img src="https://icons-for-profile-readme.s3.eu-central-1.amazonaws.com/youtube.svg" width="40" height="40" alt="YouTube" />
   </a>
-  <a href="https://github.com/Miawwh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://linkedin.com/in/your-profile" target="_blank" style="text-decoration: none">
+    <img src="https://icons-for-profile-readme.s3.eu-central-1.amazonaws.com/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Miawwh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jeremiah-andrew-lengkong-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://tiktok.com/@your-username" target="_blank" style="text-decoration: none">
+    <img src="https://icons-for-profile-readme.s3.eu-central-1.amazonaws.com/tiktok.svg" width="40" height="40" alt="TikTok" />
   </a>
 </div>
 ###
