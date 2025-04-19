@@ -83,7 +83,7 @@
   </a>
   
   <a href="https://www.tiktok.com/@[USERNAME]" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="tiktok logo"/>
+    <img src="https://www.svgrepo.com/show/303159/tiktok-icon-black-1-logo.svg" width="52" height="40" alt="tiktok logo"/>
   </a>
 </div>
 
