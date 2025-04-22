@@ -42,7 +42,7 @@
 <!--                             Languages & Tools                             -->
 <!-- ───────────────────────────────────────────────────────────────────────── -->
 
-<h2 align="left">Languages & Tools⚙️💻</h2>
+<h2 align="left">💻 Languages & Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
   <img width="12" />
