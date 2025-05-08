@@ -18,7 +18,7 @@
 
 <p align="left">
   My name is <strong>Miawhh</strong> and I'm a <strong>Frontend Developer</strong>  
-  with <strong>Fullstack Ambitions</strong>, from <strong>Indonesia</strong> 🇮🇩🌏
+  with <strong>Fullstack Ambitions</strong>, from <strong>Indonesia</strong> 🌏
 </p>
 
 ### 
