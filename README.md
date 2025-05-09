@@ -82,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   
-  <a href="https://www.tiktok.com/@[USERNAME]" target="_blank" style="text-decoration: none">
+  <a href="https://www.tiktok.com/@miawhhh54?_t=ZS-8wClyd7O72g&_r=1" target="_blank" style="text-decoration: none">
     <img src="https://www.svgrepo.com/show/303159/tiktok-icon-black-1-logo.svg" width="52" height="40" alt="tiktok logo"/>
   </a>
 </div>
