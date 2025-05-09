@@ -66,7 +66,7 @@
 ###
 
 <div align="left" style="display: flex; gap: 10px">
-  <a href="[YOUR_YOUTUBE_LINK]" target="_blank" style="text-decoration: none">
+  <a href="https://www.youtube.com/channel/UCttlaev3UYG4SmZhW8EtLBA" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>
   </a>
   
