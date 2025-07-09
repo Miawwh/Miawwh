@@ -2,7 +2,7 @@
 <!--                           GITHUB BANNER IMAGE Miawhh                      -->
 <!-- ───────────────────────────────────────────────────────────────────────── -->
 
-<img src="Banner-Github-Miawhh.png" alt="GitHub Banner" width="100%" />
+<img src="Tambahkan subjudul.gif" alt="GitHub Banner" width="100%" />
 
 <!-- ───────────────────────────────────────────────────────────────────────── -->
 <!--                                GREETING                                  -->
