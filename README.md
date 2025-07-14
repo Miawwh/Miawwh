@@ -1,6 +1,6 @@
 <!-- 1. Shooting Star Header -->
 <p align="center">
-  <img src="Desain tanpa judul (11).png" alt="Shooting Star" width="100%" />
+  <a href="https://top.gg/bot/623481583411658753"><img src="Desain tanpa judul (11).png" width="100%" height="auto"/></a>
 </p>
 
 <!-- 2. Title & Tagline di “Planet Utama” -->
