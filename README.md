@@ -18,7 +18,7 @@
 
 ## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,vuejs,php,mysql,vscode" alt="Languages & Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,javascript" alt="Languages & Tools" />
 </p>
 
 ---
