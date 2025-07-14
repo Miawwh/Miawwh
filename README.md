@@ -21,11 +21,27 @@
 </p>
 
 
-## 📬 Get in Touch
+## 🤝 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/<YOUR‑LINKEDIN‑USERNAME>/" target="_blank">🔗 LinkedIn</a>  
-  &nbsp;&nbsp;
-  <a href="mailto:<YOUR‑EMAIL>">✉️ Email</a>  
-  &nbsp;&nbsp;
-  <a href="https://github.com/<YOUR‑USERNAME>" target="_blank">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/<YOUR‑LINKEDIN‑USERNAME>/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:<YOUR‑EMAIL>">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/<YOUR‑USERNAME>" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Jika mau tambah -->
+  &nbsp;
+  <a href="https://twitter.com/<YOUR‑TWITTER‑HANDLE>" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://<YOUR‑PORTFOLIO‑URL>" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
