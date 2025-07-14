@@ -1,7 +1,6 @@
-<!-- 1. Shooting Star Header -->
-<p align="center">
+
   <img src="Tambahkan judul.gif" width="100%" height="auto"/></a>
-</p>
+
 
 <!-- 2. Title & Tagline di “Planet Utama” -->
 <div align="center" style="margin-top: -50px;">
