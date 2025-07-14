@@ -3,7 +3,6 @@
   <img src="Tambahkan judul (2).gif" width="100%" height="auto"/>
 </p>
 
----
 
 ## 📖 About Me
 <p align="center">
