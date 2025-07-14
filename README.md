@@ -5,8 +5,15 @@
 
 ---
 
-## 📖 About Me
-<p><YOUR SHORT BIO></p>
+<div align="center">
+  
+🔰 I’m a beginner web developer passionate about crafting modern, responsive websites.  
+💻 I’ve been learning **HTML**, **CSS**, and **Bootstrap 5**, and I’m now diving into **JavaScript**.  
+🚀 My goal is to grow into a **Full‑Stack Web Developer**, mastering both front‑end and back‑end technologies.  
+🎯 I love experimenting with small projects to solidify my skills and build my portfolio.  
+
+</div>
+
 
 ---
 
