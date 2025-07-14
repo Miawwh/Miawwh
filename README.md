@@ -1,5 +1,5 @@
 
-  <img src="Tambahkan judul (1).gif" width="100%" height="auto"/>
+  <img src="Tambahkan judul (2).gif" width="100%" height="auto"/>
 
 
 <!-- 2. Title & Tagline di “Planet Utama” -->
