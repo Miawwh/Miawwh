@@ -1,6 +1,6 @@
 <!-- 1. Shooting Star Header -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/2d4ce484f654dfcbe4a89bed024901ea/a75d33d945e93c01-4c/s500x750/52f17ae7168588ba653509fda50ba51fbf20cac6.gifv" alt="Shooting Star" width="100%" />
+  <img src="ac8cb19a-d703-443b-9b34-3411414fc250.png" alt="Shooting Star" width="100%" />
 </p>
 
 <!-- 2. Title & Tagline di “Planet Utama” -->
