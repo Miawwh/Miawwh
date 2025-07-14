@@ -43,7 +43,6 @@
   <img 
   src="https://github-stats-frame.vercel.app/" 
   alt="Framed GitHub Stats" 
-  width="450" 
 />
 
   <br/><br/>
