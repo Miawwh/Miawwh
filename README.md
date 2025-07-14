@@ -39,13 +39,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- 🔥 Konsistensi kontribusi harian -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Miawwh&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  <div style="border: 2px solid #00BFFF; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Miawwh&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  </div>
   <br/><br/>
-
-  <!-- 📈 Bahasa pemrograman yang paling kamu gunakan -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
+  <div style="border: 2px solid #00BFFF; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
+  </div>
 </p>
+
 
 
 
