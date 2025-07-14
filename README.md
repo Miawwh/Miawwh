@@ -41,7 +41,7 @@
 <p align="center">
   <!-- 🔥 Konsistensi kontribusi harian -->
   <img 
-  src="https://raw.githubusercontent.com/Miawwh/res/main/framed-stats.svg" 
+  src="https://github-stats-frame-git-main-miawwhs-projects.vercel.app/" 
   alt="Framed GitHub Stats" 
 />
 
