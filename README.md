@@ -36,4 +36,16 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- 🔥 Konsistensi kontribusi harian -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Miawwh&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+
+  <!-- 📈 Bahasa pemrograman yang paling kamu gunakan -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+
 
