@@ -40,7 +40,12 @@
 
 <p align="center">
   <!-- 🔥 Konsistensi kontribusi harian -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Miawwh&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  <img 
+  src="https://github-stats-frame.vercel.app/" 
+  alt="Framed GitHub Stats" 
+  width="450" 
+/>
+
   <br/><br/>
 
   <!-- 📈 Bahasa pemrograman yang paling kamu gunakan -->
