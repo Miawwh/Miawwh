@@ -1,63 +1,32 @@
-
+<!-- banner GIF -->
+<p align="center">
   <img src="Tambahkan judul (2).gif" width="100%" height="auto"/>
-
-
-<!-- 2. Title & Tagline di “Planet Utama” -->
-<div align="center" style="margin-top: -50px;">
-  <h1>🚀 Jeremiah Lengkong</h1>
-  <p><em>Front‑End Explorer & Aspiring Full‑Stack Commander</em></p>
-</div>
-
----
-
-<!-- 3. My Journey Map -->
-<pre>
-  🌟   • 2019 – Mulai belajar HTML/CSS
-     \
-      ➜ 2020 – Eksperimen JavaScript & DOM
-     /
-  🌟   • 2021 – First PHP & MySQL Project
-     \
-      ➜ 2022 – Admin Panel “Berita & Kegiatan”
-     /
-  🌟   • 2023 – Tailwind CSS & Responsive Design
-</pre>
-
----
-
-<!-- 4. Skills as “Planets” -->
-<div align="center">
-  <img src="assets/html-planet.gif" alt="HTML Planet" width="80px"/>
-  <img src="assets/css-planet.gif"  alt="CSS Planet"  width="80px"/>
-  <img src="assets/js-meteor.gif"  alt="JS Meteor"    width="80px"/>
-  <img src="assets/php-satellite.gif" alt="PHP Satellite" width="80px"/>
-  <p><em>Click each planet to explore details!</em></p>
-</div>
-
----
-
-<!-- 5. Featured Constellations (Projects) -->
-<details>
-  <summary>✨ School-Website Constellation</summary>
-  - Responsive layout  
-  - Admin CRUD berita & guru  
-  - Live demo: [Link]()
-</details>
-<details>
-  <summary>🛠️ SMK-Admin-Panel Nebula</summary>
-  - Tailwind CSS  
-  - Secure login & IP whitelist  
-  - Repo: [Link]()
-</details>
-
----
-
-<!-- 6. Contact “Galactic Hub” -->
-<p align="center">
-  <img src="assets/galaxy-hub.gif" alt="Galaxy Hub" width="300px"/>
 </p>
-<p align="center">
-  <a href="mailto:…">✉️ Email</a> • 
-  <a href="https://linkedin.com/…">🔗 LinkedIn</a> • 
-  <a href="https://codepolitan.com/…">👾 Codepolitan</a>
+
+---
+
+## 📖 About Me
+<p><YOUR SHORT BIO></p>
+
+---
+
+## 🛠️ Skills & Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5‑E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3‑1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind‑38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript‑F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js‑4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/PHP‑777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL‑4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- tambahkan/menghapus sesuai kebutuhanmu -->
+</p>
+
+---
+
+## 📬 Get in Touch
+<p>
+  <a href="https://www.linkedin.com/in/<YOUR‑LINKEDIN‑USERNAME>/" target="_blank">🔗 LinkedIn</a>  
+  <a href="mailto:<YOUR‑EMAIL>">✉️ Email</a>  
+  <a href="https://github.com/<YOUR‑USERNAME>" target="_blank">🐙 GitHub</a>
 </p>
