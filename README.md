@@ -1,6 +1,6 @@
 <!-- 1. Shooting Star Header -->
 <p align="center">
-  <img src="ac8cb19a-d703-443b-9b34-3411414fc250.png" alt="Shooting Star" width="100%" />
+  <img src="Desain tanpa judul (11).png" alt="Shooting Star" width="100%" />
 </p>
 
 <!-- 2. Title & Tagline di “Planet Utama” -->
