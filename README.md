@@ -3,9 +3,7 @@
   <img src="Tambahkan judul (2).gif" width="100%" height="auto"/>
 </p>
 
-<p align="center">
-  🔷🔶🔷🔶🔷🔶🔷🔶🔷
-</p>
+
 
 ## 📖 About Me
 <p align="center">
@@ -15,18 +13,13 @@
 🎯 I love experimenting with small projects to solidify my skills and build my portfolio.
 </p>
 
-<p align="center">
-  🔷🔶🔷🔶🔷🔶🔷🔶🔷
-</p>
+
 
 ## 🧰 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,javascript" alt="Languages & Tools" />
 </p>
 
-<p align="center">
-  🔷🔶🔷🔶🔷🔶🔷🔶🔷
-</p>
 
 ## 📬 Get in Touch
 <p align="center">
