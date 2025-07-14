@@ -1,96 +1,20 @@
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-<!--                           GITHUB BANNER IMAGE Miawhh                      -->
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-
-<img src="Tambahkan subjudul.gif" alt="GitHub Banner" width="100%" />
-
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-<!--                                GREETING                                  -->
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-
-<h1 align="left">Hey 👋 What’s up?</h1>
-
-### 
-
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-<!--                            INTRODUCTION                                   -->
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-
-<p align="left">
-  My name is <strong>Miawhh</strong> and I'm a <strong>Frontend Developer</strong>  
-  with <strong>Fullstack Ambitions</strong>, from <strong>Indonesia</strong> 🌏
-</p>
-
-### 
-
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-<!--                               ABOUT ME                                   -->
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-
-<h2 align="left">About Me</h2>
-
-<p align="left">
-  🌱 <strong>Fresh Frontend Developer</strong> | Building my foundation brick by brick<br>
-  🚀 <strong>Aspiring Fullstack Developer</strong> with sights set on Node.js & beyond<br>
-  💡 Passionate about <strong>crafting solutions</strong> that simplify lives<br>
-  🤝 Let’s build something <strong>meaningful</strong> together!
-</p>
-
-### 
-
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-<!--                             Languages & Tools                             -->
-<!-- ───────────────────────────────────────────────────────────────────────── -->
-
-<h2 align="left">💻 Languages & Tools</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+<!-- HERO -->
+<div align="center" style="background: #1f2937; padding: 1.5rem; border-radius: 1rem;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hxdjI1dWd6cHV2bXBwMGNhYTE3MjA3eTl6Nm80czlxNDFhZjByayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif" alt="Coding Animation" width="300px"/>
+  <h1>Hi, I’m Jeremiah Lengkong 👋</h1>
+  <p><em>Front‑End Developer & Aspiring Full‑Stack</em></p>
 </div>
 
-
-### 
-
-<!-- ────────────────────────────────────────────────────────────────────────── -->
-<!--                            🤝 LET'S CONNECT !                            -->
-<!-- ────────────────────────────────────────────────────────────────────────── -->
-
-<h2 align="left">🤝 Let's Connect!</h2>
-
-###
-
-<div align="left" style="display: flex; gap: 10px">
-  <a href="https://www.youtube.com/@Miawhhh" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>
-  </a>
-  
-  <a href="[YOUR_INSTAGRAM_LINK]" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-  </a>
-  
-  <a href="https://discordapp.com/users/808575219643056129" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/jeremiah-andrew-lengkong-/" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  
-  <a href="https://www.tiktok.com/@miawhhh54?_t=ZS-8wClyd7O72g&_r=1" target="_blank" style="text-decoration: none">
-    <img src="https://www.svgrepo.com/show/303159/tiktok-icon-black-1-logo.svg" width="52" height="40" alt="tiktok logo"/>
-  </a>
+<!-- SKILLS & PROJECTS -->
+<div align="center" style="display: flex; gap: 2rem; margin-top: 2rem;">
+  <div>
+    ### 🔨 Skills  
+    • HTML5 • CSS3 • JS  
+    • Tailwind • PHP • MySQL  
+  </div>
+  <div>
+    ### 🚀 Featured Projects  
+    • School‑Website  
+    • SMK‑Admin‑Panel  
+  </div>
 </div>
-
-###
-
-<div align="left">
-  <img height="200" src="https://media1.tenor.com/m/2ycO9Nzha6MAAAAC/capoo-bugcat.gif"  />
-</div>
-
-###
