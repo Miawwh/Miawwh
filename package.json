@@ -1,8 +1,0 @@
-{
-  "name": "github-stats-frame",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "node-fetch": "^2.6.7"
-  }
-}
