@@ -1,0 +1,42 @@
+name: Update GitHub Stats Image
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Jalankan setiap jam
+  workflow_dispatch: # Memungkinkan untuk menjalankan secara manual dari tab Actions
+
+jobs:
+  update-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Download GitHub Stats
+        run: |
+          # Ganti URL ini dengan URL stats Anda
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Miawwh&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
+
+      - name: Convert SVG to PNG
+        run: |
+          # Mengonversi SVG stats menjadi PNG agar mudah digabungkan
+          convert stats.svg stats.png
+
+      - name: Composite Images
+        run: |
+          # Ganti 'background.png' dengan nama file gambar latar belakang Anda
+          # Sesuaikan nilai '+20+20' ini untuk mengatur posisi stats di atas latar belakang.
+          # '+X+Y' artinya stats akan ditempatkan X piksel dari kiri dan Y piksel dari atas.
+          # Anda perlu mencoba-coba nilai ini agar pas dengan desain latar belakang Anda.
+          composite -geometry +20+20 stats.png .github/images/background.png combined_stats.png
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add combined_stats.png
+          git commit -m "Update combined GitHub stats image" || echo "No changes to commit"
+          git push
