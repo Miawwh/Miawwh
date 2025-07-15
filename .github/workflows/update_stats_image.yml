@@ -20,11 +20,6 @@ jobs:
           # Ganti URL ini dengan URL stats Anda
           curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Miawwh&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
 
-      - name: Convert SVG to PNG
-        run: |
-          # Mengonversi SVG stats menjadi PNG agar mudah digabungkan
-          convert stats.svg stats.png
-
       - name: Composite Images
         run: |
           # Ganti 'background.png' dengan nama file gambar latar belakang Anda
