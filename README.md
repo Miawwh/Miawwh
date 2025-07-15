@@ -38,10 +38,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+
   ![GitHub Stats Kustom](https://github.com/Miawwh/Miawwh/raw/main/combined_stats.png)
-    width="350"
-  />
+    
+  
   &nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
