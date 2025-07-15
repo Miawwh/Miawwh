@@ -39,9 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Miawwh&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
-    alt="GitHub Stats"
+  ![GitHub Stats Kustom](https://github.com/Miawwh/Miawwh/raw/main/combined_stats.png)
     width="350"
   />
   &nbsp;&nbsp;
