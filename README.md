@@ -42,13 +42,11 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Miawwh&theme=tokyonight&show_icons=true&hide_border=false&border_radius=10&border_color=00BFFF" 
     alt="GitHub Stats" 
-    width="450"
   />
   <br/><br/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&theme=tokyonight&layout=compact&hide_border=false&border_radius=10&border_color=00BFFF" 
     alt="Top Languages" 
-    width="450"
   />
 </p>
 
