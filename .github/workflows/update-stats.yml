@@ -2,8 +2,8 @@ name: Update Framed Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'   # setiap jam
-  workflow_dispatch:     # bisa dijalankan manual
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,18 +12,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Node.js
+      - name: Use Node.js 16
         uses: actions/setup-node@v3
         with:
           node-version: '16'
 
-      - name: Install dependencies
+      - name: Install deps
         run: npm ci
 
-      - name: Generate Framed SVG
+      - name: Generate framed-stats.svg
         run: node scripts/generate-framed.js
 
-      - name: Commit & Push
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
