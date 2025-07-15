@@ -1,6 +1,6 @@
 <!-- banner GIF -->
 <p align="center">
-  <img src="Tambahkan judul (2251 x 720 piksel).gif" width="100%" height="auto"/>
+  <img src="Tambahkan judul (2).gif" width="100%" height="auto"/>
 </p>
 
 
