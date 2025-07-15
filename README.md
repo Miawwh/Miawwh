@@ -39,18 +39,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- 🔥 Konsistensi kontribusi harian -->
   <img 
-  src="https://miawwh.github.io/Miawwh/framed-stats.svg" 
-  alt="Framed GitHub Stats" 
-/>
-
+    src="https://github-readme-stats.vercel.app/api?username=Miawwh&theme=tokyonight&show_icons=true&hide_border=false&border_radius=10&border_color=00BFFF" 
+    alt="GitHub Stats" 
+    width="450"
+  />
   <br/><br/>
-
-  <!-- 📈 Bahasa pemrograman yang paling kamu gunakan -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&theme=tokyonight&layout=compact&hide_border=false&border_radius=10&border_color=00BFFF" 
+    alt="Top Languages" 
+    width="450"
+  />
 </p>
-
 
 
 
