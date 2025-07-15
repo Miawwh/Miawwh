@@ -12,20 +12,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
+      - name: Install necessary tools (ImageMagick & librsvg2-bin)
+        # Pastikan kedua tool ini terinstal
+        run: sudo apt-get update && sudo apt-get install -y imagemagick librsvg2-bin
 
       - name: Download GitHub Stats
         run: |
           # Ganti URL ini dengan URL stats Anda
           curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Miawwh&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
 
+      - name: Convert SVG Stats to PNG using rsvg-convert
+        # Menggunakan rsvg-convert yang lebih baik dalam menangani SVG
+        # Ini akan membuat file 'stats.png'
+        run: |
+          rsvg-convert -o stats.png stats.svg
+        # Opsional: Jika stats PNG terlalu kecil/besar, tambahkan -w <width> -h <height>
+        # Contoh: rsvg-convert -f png -w 500 -h 200 -o stats.png stats.svg
+
       - name: Composite Images
         run: |
-          # Ganti 'background.png' dengan nama file gambar latar belakang Anda
-          # Sesuaikan nilai '+20+20' ini untuk mengatur posisi stats di atas latar belakang.
-          # '+X+Y' artinya stats akan ditempatkan X piksel dari kiri dan Y piksel dari atas.
-          # Anda perlu mencoba-coba nilai ini agar pas dengan desain latar belakang Anda.
+          # Sekarang, kita menggunakan 'stats.png' yang sudah dibuat
+          # dan file latar belakang PNG Anda yang sudah ada di .github/images/
+          # Ganti 'background.png' dengan nama file PNG latar belakang Anda yang sebenarnya
+          # Sesuaikan nilai '+X+Y' untuk mengatur posisi stats di atas latar belakang.
+          # Ini SANGAT PENTING untuk mendapatkan penempatan yang pas.
           composite -geometry +20+20 stats.png .github/images/background.png combined_stats.png
 
       - name: Commit and push changes
