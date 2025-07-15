@@ -53,6 +53,9 @@
 </p>
 
 
+<p align="center">
+  <img src="Tanpa judul (2251 x 464 piksel).svg" width="100%" height="auto"/>
+</p>
 
 
 
