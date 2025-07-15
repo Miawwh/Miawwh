@@ -48,7 +48,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
     alt="Top Languages"
-    width="350"
+    width="330"
   />
 </p>
 
