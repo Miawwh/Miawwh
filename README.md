@@ -39,16 +39,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Miawwh&theme=tokyonight&show_icons=true&hide_border=false&border_radius=10&border_color=00BFFF" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Miawwh&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
+    alt="GitHub Stats"
+    width="350"
   />
-  <br/><br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&theme=tokyonight&layout=compact&hide_border=false&border_radius=10&border_color=00BFFF" 
-    alt="Top Languages" 
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
+    alt="Top Languages"
+    width="350"
   />
 </p>
+
 
 
 
